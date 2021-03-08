@@ -1,0 +1,29 @@
+{
+  "name": "asterisk-ami-sample",
+  "version": "1.0.0",
+  "description": "Aterisk Management Interface Sample with 'ami-io'",
+  "main": "index.js",
+  "dependencies": {
+    "ami-io": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savagz/asterisk-ami-sample.git"
+  },
+  "keywords": [
+    "Asterisk",
+    "Manager",
+    "AMI",
+    "Ami-io"
+  ],
+  "author": "Samuel Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savagz/asterisk-ami-sample/issues"
+  },
+  "homepage": "https://github.com/savagz/asterisk-ami-sample#readme"
+}
